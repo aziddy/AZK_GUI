@@ -1,2 +1,2 @@
 # AZK_GUI
-Electron based GUI Configurator 
+Electron and Web Serial based GUI Configurator 
